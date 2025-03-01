@@ -1,6 +1,4 @@
-# I'm Nishant Singh <img src="https://github.com/user-attachments/assets/4d65195f-abf5-4a67-beca-e4b57a4dfd07" 
-     width="50" height="50" 
-     style="border-radius: 20px; display: block;">
+# I'm Nishant Singh      <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="30" height="30" title="Secured third rank on university hackathon BinaryBunch on project 'proctoring system' (uploaded in this github repository)">
 
 
 ### Data Scientist & ML Enthusiast
