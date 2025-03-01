@@ -1,4 +1,8 @@
-# I'm Nishant Singh
+# I'm Nishant Singh <img src="https://github.com/user-attachments/assets/4d65195f-abf5-4a67-beca-e4b57a4dfd07" 
+     width="50" height="50" 
+     style="border-radius: 20px; display: block;">
+
+
 ### Data Scientist & ML Enthusiast
 I am a dedicated AI developer with a deep focus on building machine learning and deep learning models from scratch. My expertise spans RNNs, computer vision, and transformer architectures, where I specialize in designing custom solutions to optimize model accuracy and efficiency. I have hands-on experience with training and fine-tuning advanced models, including BERT, YOLO, ResNet, and VGG, while ensuring that architectures and parameters are tailored to meet project-specific goals. My work ranges from image segmentation and object detection to developing language models, always with an eye on integrating the latest AI advancements.
 
