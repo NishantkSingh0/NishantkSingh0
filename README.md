@@ -6,4 +6,4 @@ I am a dedicated AI developer with a deep focus on building machine learning and
 
 I am passionate about driving innovation through AI and constantly refining techniques to push the boundaries of performance. Explore my projects and contributions further on my portfolio.  __Click below:__
 
-[![Portfolio](./Images/portfolio.jfif)](https://nishantksingh0.github.io/)
+[![Portfolio](./Images/portfolio.jpeg)](https://nishantksingh0.github.io/)
