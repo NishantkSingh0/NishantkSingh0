@@ -8,4 +8,4 @@ I am passionate about driving innovation through AI and constantly refining tech
 
 [![Portfolio](./Images/portfolio.jpeg)](https://nishantksingh0.github.io/)
 
-Mail me: <a href="mailto:nishantsingh.talk@gmail.com" target="_blank"> NishantSingh.talk</a>
+Talk with me: <a href="mailto:nishantsingh.talk@gmail.com" target="_blank"> NishantSingh.talk</a>
