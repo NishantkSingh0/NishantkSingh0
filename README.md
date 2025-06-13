@@ -1,3 +1,6 @@
+![Alt Text](https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif)
+
+
 # I'm Nishant Singh    <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank">  <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="30" height="30" title="Secured third rank on university hackathon TechWizard on project 'proctoring system' (uploaded in this github repository)">  </a>
 
 
