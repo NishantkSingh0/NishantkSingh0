@@ -5,7 +5,7 @@
 # I'm Nishant Singh &nbsp;&nbsp;   <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank">  <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="30" height="30" title="Secured third rank on university hackathon TechWizard on project 'proctoring system' (uploaded in this github repository)">  </a> &nbsp;&nbsp; ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=nishantksingh1)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF005C&width=800&lines=Aspiring+Data+Scientist.;Deep+Learning+Enthusiast.;Open+Source+Contributor.;Built+25%2B+Practical+AI+Projects.;LLM+%26+Transformer+Researcher.;Loves+solving+real-world+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF005C&width=800&lines=Aspiring+Data+Scientist.;Deep+Learning+Enthusiast.;Open+Source+Contributor.;Built+25%2B+Practical+AI+Projects.;LLM+%26+Transformer+Researcher." alt="Typing SVG" />
 </a>  
   
 A dedicated AI developer with a deep focus on building machine learning and deep learning models from scratch. My expertise spans RNNs, computer vision, and transformer architectures, where I specialize in designing custom solutions to optimize model accuracy and efficiency. I have hands-on experience with training and fine-tuning advanced models, including BERT, YOLO, ResNet, and VGG, while ensuring that architectures and parameters are tailored to meet project-specific goals. My work ranges from image segmentation and object detection to developing language models, always with an eye on integrating the latest AI advancements.
