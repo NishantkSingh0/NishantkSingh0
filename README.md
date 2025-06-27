@@ -54,19 +54,16 @@ I am passionate about driving innovation through AI and constantly refining tech
 
 <br><br>
 
-<table>
-  <tr>
-    <td>
-      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nishantksingh0&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantksingh0&layout=compact&theme=dracula&langs_count=8&hide=html,css" alt="Top Languages" />
-    </td>
-    <td>
-      <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantksingh0&theme=dracula&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantksingh0&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" height="200px" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantksingh0&layout=compact&theme=dracula&langs_count=8&hide=html,css" alt="Top Languages" height="200px" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantksingh0&theme=dracula&hide_border=false" alt="GitHub Streak" height="200px" />
+
+</div>
+
 
 <div align="center">
   <a href="https://github.com/nishantksingh0/">
@@ -79,18 +76,6 @@ I am passionate about driving innovation through AI and constantly refining tech
 </div>
 
 <br><br>
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishantksingh0&theme=2077" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishantksingh0&theme=2077" />
-</div>
-
-<br/>
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishantksingh0&theme=2077" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantksingh0&theme=2077&utcOffset=8" />
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF005C,50:B62BFF,100:141321&section=footer&reversal=true" width="100%"/>
