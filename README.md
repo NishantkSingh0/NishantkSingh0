@@ -12,10 +12,9 @@ A dedicated AI developer with a deep focus on building machine learning and deep
 
 I am passionate about driving innovation through AI and constantly refining techniques to push the boundaries of performance. Explore my projects and contributions further on my portfolio. **Click below:**
 
-[![Portfolio](./Images/portfolio.jpeg)](https://nishantksingh0.github.io/)
 <br><br><br>
 <div align="center"> 
-  <a href="https://nishantksingh0.github.io" target="_blank">
+  <a href="https://nishantksingh0.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1Bu8stIqK3FCMUKZii_tUR4EfVe_rW_Lw/view?usp=sharing" target="_blank">
@@ -29,9 +28,6 @@ I am passionate about driving innovation through AI and constantly refining tech
   </a>
   <a href="https://www.kaggle.com/nishantsingh96" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/mr._nishant_singh_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://drive.google.com/drive/folders/1TxnKWATatdV4W9WiznzcZEsncK5f1yN-?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
@@ -57,6 +53,14 @@ I am passionate about driving innovation through AI and constantly refining tech
 | **Platforms & Tools**     | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black) |
 
 <br><br>
+
+<div align="center">
+  <h2 class="glow-text">🐍 My Contributions 🐍</h2>
+  <img src="https://raw.githubusercontent.com/nishantksingh0/nishantksingh0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br><br>
+
 <table>
   <tr>
     <td>
