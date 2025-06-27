@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF005C,50:B62BFF,100:141321&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF005C,50:B62BFF,100:141321&section=header" width="100%"/>
 </p>
 
 # I'm Nishant Singh &nbsp;&nbsp;   <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank">  <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="30" height="30" title="Secured third rank on university hackathon TechWizard on project 'proctoring system' (uploaded in this github repository)">  </a> &nbsp;&nbsp; ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=nishantksingh1)
@@ -78,5 +78,5 @@ I am passionate about driving innovation through AI and constantly refining tech
 <br><br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF005C,50:B62BFF,100:141321&section=footer&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF005C,50:B62BFF,100:141321&section=footer&reversal=true" width="100%"/>
 </p>
