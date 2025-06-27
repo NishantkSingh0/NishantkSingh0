@@ -54,13 +54,6 @@ I am passionate about driving innovation through AI and constantly refining tech
 
 <br><br>
 
-<div align="center">
-  <h2 class="glow-text">🐍 My Contributions 🐍</h2>
-  <img src="https://raw.githubusercontent.com/nishantksingh0/nishantksingh0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br><br>
-
 <table>
   <tr>
     <td>
