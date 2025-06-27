@@ -78,6 +78,19 @@ I am passionate about driving innovation through AI and constantly refining tech
   <img src="https://github-profile-trophy.vercel.app/?username=nishantksingh0&theme=dracula" alt="GitHub Trophies" />
 </div>
 
+<br><br>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishantksingh0&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishantksingh0&theme=2077" />
+</div>
+
+<br/>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishantksingh0&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantksingh0&theme=2077&utcOffset=8" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF005C,50:B62BFF,100:141321&section=footer&reversal=true" width="100%"/>
