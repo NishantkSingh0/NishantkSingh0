@@ -17,7 +17,7 @@ I am passionate about driving innovation through AI and constantly refining tech
   <a href="https://nishantksingh0.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1Bu8stIqK3FCMUKZii_tUR4EfVe_rW_Lw/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/17mJ-reI3NeHnmDL6_3SP5WxLJJAa_TFI/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nishantksingh1/" target="_blank"> 
