@@ -77,6 +77,15 @@ I am passionate about driving innovation through AI and constantly refining tech
 </div>
 
 <br><br>
+<div align="center">
+  <a href="https://github.com/nishantksingh0">
+    <img src="https://img.shields.io/github/followers/nishantksingh0?label=Followers&style=social" alt="Github Followers" />
+  </a>
+  <a href="https://github.com/nishantksingh0?tab=repositories">
+    <img src="https://img.shields.io/github/stars/nishantksingh0?style=social" alt="GitHub stars" />
+  </a>
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:4F46E5,50:3A0CA3,100:141321&section=footer&reversal=true" width="100%"/>
