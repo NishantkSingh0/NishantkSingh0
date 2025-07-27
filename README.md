@@ -32,10 +32,10 @@ I am passionate about driving innovation through AI and constantly refining tech
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/Nishantksingh" target="_blank">
+  <a href="https://x.com/Nishantksingh0" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://x.com/Nishantksingh0" target="_blank">
+  <a href="https://www.hackerrank.com/profile/Nishantksingh" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </div>
