@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:4F46E5,50:3A0CA3,100:141321&section=header" width="100%"/>
 </p>
 
-# I'm Nishant Singh &nbsp;&nbsp;   <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank">  <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="30" height="30" title="Secured third rank on university hackathon TechWizard on project 'proctoring system' (uploaded in this github repository)">  </a> <a href="https://learn.nvidia.com/certificates?id=mdYmVH7jRMK45Tgs4XemYQ" target="_blank">  <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/RAG (NVIDIA).png?raw=true"  width="30" height="30" title="Completed NVIDIA DLI's course on 'Building RAG Agents with LLMs'. Mastered creating AI agents with LangChain, Gradio, and FAISS for efficient document retrieval and dialog management."></a> &nbsp;&nbsp; ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=nishantksingh1)
+
+# I'm Nishant Singh &nbsp;&nbsp;![Profile views](https://visitor-badge.laobi.icu/badge?page_id=nishantksingh1) 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF005C&width=800&lines=Aspiring+Data+Scientist.;Deep+Learning+Enthusiast.;Open+Source+Contributor.;Built+25%2B+Practical+AI+Projects.;LLM+%26+Transformer+Researcher." alt="Typing SVG" />
@@ -14,11 +15,25 @@ I am passionate about driving innovation through AI and constantly refining tech
 
 <br><br><br>
 <div align="center"> 
+  <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank">  
+      <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="50" height="50" 
+          title="Secured third rank on university hackathon TechWizard on project 'proctoring system' (uploaded in this github repository)">&nbsp;&nbsp;
+  </a> 
+  <a href="https://learn.nvidia.com/certificates?id=mdYmVH7jRMK45Tgs4XemYQ" target="_blank">  
+      <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/RAG (NVIDIA).png?raw=true"  width="50" height="50" 
+          title="Completed NVIDIA DLI's course on 'Building RAG Agents with LLMs'. Mastered creating AI agents with LangChain, Gradio, and FAISS for efficient document retrieval and dialog management.">
+  </a> &nbsp;&nbsp; 
+  
+  <br><br>
+  
   <a href="https://nishantksingh0.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
   <a href="https://drive.google.com/drive/folders/1Iw7zUD1ZVfs0j0oA_iUXxHWQy9jgd9pT?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/1FEHD7C-eIT7S2FtjRGr9v2KXnOVP4trG?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Certificates-76B900?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nishantksingh1/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
@@ -28,9 +43,6 @@ I am passionate about driving innovation through AI and constantly refining tech
   </a>
   <a href="https://www.kaggle.com/nishantsingh96" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   </a>
   <a href="https://x.com/Nishantksingh0" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
