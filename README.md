@@ -15,16 +15,18 @@ I am passionate about driving innovation through AI and constantly refining tech
 
 <br><br><br>
 <div align="center"> 
-  <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank">  
-      <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="50" height="50" 
-          title="Secured third rank on university hackathon TechWizard on project 'proctoring system' (uploaded in this github repository)">&nbsp;&nbsp;
-  </a> 
-  <a href="https://learn.nvidia.com/certificates?id=mdYmVH7jRMK45Tgs4XemYQ" target="_blank">  
-      <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/RAG (NVIDIA).png?raw=true"  width="50" height="50" 
-          title="Completed NVIDIA DLI's course on 'Building RAG Agents with LLMs'. Mastered creating AI agents with LangChain, Gradio, and FAISS for efficient document retrieval and dialog management.">
-  </a> &nbsp;&nbsp; 
+  <div style="style="margin: 1.5em 0">
+    <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank" >  
+        <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="50" height="50" 
+            title="Secured third rank on university hackathon TechWizard on project 'proctoring system' (uploaded in this github repository)">&nbsp;&nbsp;
+    </a> 
+    <a href="https://learn.nvidia.com/certificates?id=mdYmVH7jRMK45Tgs4XemYQ" target="_blank">  
+        <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/RAG (NVIDIA).png?raw=true"  width="50" height="50" 
+            title="Completed NVIDIA DLI's course on 'Building RAG Agents with LLMs'. Mastered creating AI agents with LangChain, Gradio, and FAISS for efficient document retrieval and dialog management.">
+    </a>
+  </div>
   
-  <br><br>
+  <br>
   
   <a href="https://nishantksingh0.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=aboutdotme&logoColor=white" />
