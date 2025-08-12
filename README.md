@@ -23,9 +23,9 @@ I am passionate about driving innovation through AI and constantly refining tech
     <a href="https://learn.nvidia.com/certificates?id=mdYmVH7jRMK45Tgs4XemYQ" target="_blank">  
         <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/RAG (NVIDIA).png?raw=true"  width="50" height="50" 
             title="Completed NVIDIA DLI's course on 'Building RAG Agents with LLMs'. Mastered creating AI agents with LangChain, Gradio, and FAISS for efficient document retrieval and dialog management.">
-    </a>
+    </a>&nbsp;
     <a href="https://leetcode.com/u/mr_nishant_singh/" target="_blank">  
-        <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/SQL_Badge.png?raw=true"  width="50" height="50" 
+        <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/SQL_Badge.png?raw=true"  width="50" height="60" 
             title="Completed All 50 Easy to Hard LeetCode Questions on SQL">
     </a>
   </div>
