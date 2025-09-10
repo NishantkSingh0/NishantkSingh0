@@ -73,25 +73,13 @@ I am passionate about driving innovation through AI and constantly refining tech
 
 <br><br>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nishantksingh0&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" height="200px" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantksingh0&layout=compact&theme=dracula&langs_count=8&hide=html,css" alt="Top Languages" height="200px" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantksingh0&theme=dracula&hide_border=false" alt="GitHub Streak" height="200px" />
-
-</div>
-
-
 <div align="center">
-  <a href="https://github.com/nishantksingh0/">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantksingh0&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@nishantksingh0's github-readme-streak-stats"/>
-  </a>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishantksingh0&theme=transparent" alt="Profile Details"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishantksingh0&theme=dracula" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishantksingh0&&theme=transparent" alt="Stats"/>
+<!--   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantksingh0&utcOffset=10&&theme=transparent" alt="Productive Time"/> -->
 </div>
 
 <br><br>
