@@ -81,6 +81,9 @@ I am passionate about driving innovation through AI and constantly refining tech
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishantksingh0&&theme=transparent" alt="Stats"/>
 <!--   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantksingh0&utcOffset=10&&theme=transparent" alt="Productive Time"/> -->
 </div>
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=nishantksingh0&theme=transparent&hide_border=true&card_width=1000&fire=8b5cf6&border=8b5cf6" alt="GitHub Streak"/>
+</div>
 
 <br><br>
 <div align="center">
