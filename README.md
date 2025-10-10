@@ -68,6 +68,9 @@ I am passionate about driving innovation through AI and constantly refining tech
   <a href="https://www.hackerrank.com/profile/Nishantksingh" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/mr_nishant_singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-4512?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </div>
 <br><br><br>
      
