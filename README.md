@@ -13,7 +13,19 @@ A dedicated AI developer with a deep focus on building machine learning and deep
 
 I am passionate about driving innovation through AI and constantly refining techniques to push the boundaries of performance. Explore my projects and contributions further on my portfolio. **Click below:**
 
-<br><br><br>
+<br><br>
+
+<div align="center">
+  <a href="https://github.com/nishantksingh0">
+    <img src="https://img.shields.io/github/followers/nishantksingh0?label=Followers&style=social" alt="Github Followers" />
+  </a>
+  <a href="https://github.com/nishantksingh0?tab=repositories">
+    <img src="https://img.shields.io/github/stars/nishantksingh0?style=social" alt="GitHub stars" />
+  </a>
+</div>
+
+<br>
+
 <div align="center"> 
   <div style="style="margin: 1.5em 0">
     <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank" >  
@@ -84,17 +96,6 @@ I am passionate about driving innovation through AI and constantly refining tech
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=nishantksingh0&theme=transparent&hide_border=true&card_width=1000&fire=8b5cf6&border=8b5cf6" alt="GitHub Streak"/>
 </div>
-
-<br><br>
-<div align="center">
-  <a href="https://github.com/nishantksingh0">
-    <img src="https://img.shields.io/github/followers/nishantksingh0?label=Followers&style=social" alt="Github Followers" />
-  </a>
-  <a href="https://github.com/nishantksingh0?tab=repositories">
-    <img src="https://img.shields.io/github/stars/nishantksingh0?style=social" alt="GitHub stars" />
-  </a>
-</div>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:4F46E5,50:3A0CA3,100:141321&section=footer&reversal=true" width="100%"/>
