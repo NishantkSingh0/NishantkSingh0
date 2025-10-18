@@ -100,6 +100,9 @@ I am passionate about driving innovation through AI and constantly refining tech
   <img width="100%" src="https://streak-stats.demolab.com?user=nishantksingh0&theme=transparent&hide_border=true&card_width=1000&fire=8b5cf6&border=8b5cf6" alt="GitHub Streak"/>
 </div>
 
+## 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=nishantksingh0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:4F46E5,50:3A0CA3,100:141321&section=footer&reversal=true" width="100%"/>
 </p>
