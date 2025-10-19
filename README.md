@@ -6,13 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF005C&width=800&lines=Aspiring+Data+Scientist.;Deep+Learning+Enthusiast.;Open+Source+Contributor.;Built+25%2B+Practical+AI+Projects.;LLM+%26+Transformer+Researcher."
-      alt="Typing SVG"
-    />
-  </a>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Data%20Scientist;Deep%20Learning%20Enthusiast;Open%20Source%20Contributor;Built%2030%2B%20Practical%20AI%20Projects;LLM%20%26%20Transformer%20Researcher&font=Roboto&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" 
+    alt="Typing SVG" 
+  />
 </p>
+
   
 A dedicated AI developer with a deep focus on building machine learning and deep learning models from scratch. My expertise spans RNNs, computer vision, and transformer architectures, where I specialize in designing custom solutions to optimize model accuracy and efficiency. I have hands-on experience with training and fine-tuning advanced models, including BERT, YOLO, ResNet, and VGG, while ensuring that architectures and parameters are tailored to meet project-specific goals. My work ranges from image segmentation and object detection to developing language models, always with an eye on integrating the latest AI advancements.
 
@@ -112,7 +111,8 @@ I am passionate about driving innovation through AI and constantly refining tech
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nishantksingh0&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
 </p>
-
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:4F46E5,50:3A0CA3,100:141321&section=footer&reversal=true" width="100%"/>
 </p>
+ -->
