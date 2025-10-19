@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:4F46E5,50:3A0CA3,100:141321&section=header" width="100%"/>
-</p>
-
-<p align="center">
   <img 
     src="https://github-widgetbox.vercel.app/api/profile?username=NishantkSingh0&data=followers,repositories,stars,commits&theme=radical&title_color=000000"
     style="width: 100%; max-width: 1000px;"
