@@ -20,13 +20,13 @@ I am passionate about driving innovation through AI and constantly refining tech
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/nishantksingh0">
+  <!-- <a href="https://github.com/nishantksingh0">
     <img src="https://img.shields.io/github/followers/nishantksingh0?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+  </a> -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nishantksingh1" alt="Profile Views" />
-  <a href="https://github.com/nishantksingh0?tab=repositories">
+  <!-- <a href="https://github.com/nishantksingh0?tab=repositories">
     <img src="https://img.shields.io/github/stars/nishantksingh0?style=social" alt="GitHub Stars" />
-  </a>
+  </a> -->
 </div>
 
 
