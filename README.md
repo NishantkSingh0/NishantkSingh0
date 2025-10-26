@@ -63,7 +63,7 @@ I am passionate about driving innovation through AI and constantly refining tech
   <a href="https://www.linkedin.com/in/nishantksingh1/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a> 
-  <a href="mailto:nishantsingh.talk@gmail.com" target="_blank"> 
+  <a href="mailto:nishantsingh.talk@zohomail.in" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
   <a href="https://www.kaggle.com/nishantsingh96" target="_blank">
