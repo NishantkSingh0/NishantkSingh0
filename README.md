@@ -13,7 +13,10 @@
 </p>
 
   
-I’m Nishant Singh, an AI Engineer and Deep Learning Enthusiast skilled in computer vision, NLP, and transformer models. I work with TensorFlow, Keras, and LangChain to build end-to-end AI systems for real-world applications. I’m passionate about applied AI, automation, and continuous learning.
+I’m **Nishant Singh**, an AI Engineer and Deep Learning Enthusiast with a strong focus on computer vision, NLP, and transformer-based architectures. I enjoy building intelligent systems that combine data-driven insights with real-world usability. Skilled in **TensorFlow**, **Keras**, **LangChain**, and **Streamlit**, I design and implement end-to-end AI pipelines — from model development and optimization to deployment.
+
+I’m passionate about exploring how AI can automate workflows, enhance human learning, and solve practical challenges. My goal is to continuously expand my expertise in deep learning, multimodal models, and applied AI solutions while contributing to innovative projects that make technology more accessible and impactful.
+
 
 <br><br>
 
