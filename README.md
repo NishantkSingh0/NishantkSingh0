@@ -53,7 +53,7 @@ I’m passionate about exploring how AI can automate workflows, enhance human le
   <br>
   
   <a href="https://nishantksingh0.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-12172C?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
   <a href="https://drive.google.com/drive/folders/11sXnbYaJclztz4Nij-nnEKrUQdsyVwPj?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
